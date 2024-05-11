@@ -1,2 +1,2 @@
 # federated-learning
-This repository contain federated learning using tensorflow
+Federated learning using tensorflow
